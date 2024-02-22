@@ -50,15 +50,13 @@ Full React rails app
 ### Key Features
 
 - Record a transaction
-- Associate a transaction with a category
-- Create new categories
-- View amount spent on each category
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :rocket: Live Demo
 
-- [Live Demo](https://mysite-5be2.onrender.com)
+- [Live Demo]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +80,7 @@ Clone this repository to your desired folder:<br>
 ```sh
   cd my-prefered-folder
 
-  git clone https://github.com/faisalakb/Budget-app-Capstone.git
+  git clone https://github.com/faisalakb/Hello_world_OneApp.git
 
 ### Install
 
@@ -133,17 +131,15 @@ To run tests, run the following command:
 
 ## :telescope: Future Features <a name="future-features"></a>
 
-- Record income
-- Add more category options
-- View monthly savings
-- Improve styling
+- Integrate React with rails
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :handshake: Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/faisalakb/Budget-app-Capstone/issues).
+Feel free to check the [issues page](https://github.com/faisalakb/Hello_world_OneApp/issues).
 
 <!-- Feel free to check the [issues page](../../issues/). -->
 
@@ -163,6 +159,6 @@ If you like this project give it a star.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
 ## :memo: License <a name="license"></a>
-This project is [MIT](https://github.com/faisalakb/Ruby-on-Rails-Capstone--Budget-App/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/faisalakb/Hello_world_OneApp/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
